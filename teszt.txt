@@ -1,2 +1,3 @@
 tesztszoveg 
 ez a módosítás a szerveren történt
+ez a sor pedig a gépen módosult
